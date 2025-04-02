@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-19T15:44:32 IST" name="Default suite" finished-at="2025-03-19T15:44:57 IST" duration-ms="25733">
+    <groups>
+    </groups>
+    <test started-at="2025-03-19T15:44:32 IST" name="Default test" finished-at="2025-03-19T15:44:57 IST" duration-ms="25733">
+      <class name="attendancefeature.EMPMonitor.CheckinandCheckout">
+        <test-method signature="checkin()[pri:1, instance:attendancefeature.EMPMonitor.CheckinandCheckout@1f2586d6]" started-at="2025-03-19T15:44:32 IST" name="checkin" finished-at="2025-03-19T15:44:50 IST" duration-ms="18633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:attendancefeature.EMPMonitor.CheckinandCheckout@1f2586d6]" started-at="2025-03-19T15:44:50 IST" name="teardown" finished-at="2025-03-19T15:44:51 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="checkout()[pri:2, instance:attendancefeature.EMPMonitor.CheckinandCheckout@1f2586d6]" started-at="2025-03-19T15:44:51 IST" name="checkout" finished-at="2025-03-19T15:44:57 IST" duration-ms="6701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:attendancefeature.EMPMonitor.CheckinandCheckout@1f2586d6]" started-at="2025-03-19T15:44:57 IST" name="teardown" finished-at="2025-03-19T15:44:57 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- attendancefeature.EMPMonitor.CheckinandCheckout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
