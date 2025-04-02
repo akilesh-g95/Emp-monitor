@@ -41,6 +41,9 @@ public class compareAnagram {
 		} else {
 			System.out.println("not a Anagram");
 		}
+		System.out.println("hello world");
 	}
+
+	
 
 }
